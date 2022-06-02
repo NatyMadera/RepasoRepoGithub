@@ -1,1 +1,5 @@
-"Test 2 nuevo archivo"
+// crear archivos:
+// git add. nombredelarchivo
+// git commit -m ""
+// git push
+
